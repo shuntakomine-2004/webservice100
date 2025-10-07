@@ -28,3 +28,4 @@ origin  git@github.com:komineshunta/webservice100.git (fetch)
 origin  git@github.com:komineshunta/webservice100.git (push)
 
 #04. ファイルの変更とpush/pull
+github上で変更
