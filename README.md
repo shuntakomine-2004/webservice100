@@ -29,3 +29,18 @@ origin  git@github.com:komineshunta/webservice100.git (push)
 
 #04. ファイルの変更とpush/pull
 github上で変更
+
+#05. .gitignoreファイルの作成
+.gitignore ファイル: node_modules
+
+git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+#06. ブランチの作成と切り替え
+git branch
+
+* develop
+  main
