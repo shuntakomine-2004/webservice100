@@ -23,3 +23,8 @@ ssh -T git@github.com
 Hi shuntakomine-2004! You've successfully authenticated, but GitHub does not provide shell access.
 
 #03. ローカルリポジトリとGitHubリポジトリの連携
+git remote -v
+origin  git@github.com:komineshunta/webservice100.git (fetch)
+origin  git@github.com:komineshunta/webservice100.git (push)
+
+#04. ファイルの変更とpush/pull
