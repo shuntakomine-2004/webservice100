@@ -31,6 +31,8 @@ origin  git@github.com:komineshunta/webservice100.git (push)
 github上で変更
 
 #05. .gitignoreファイルの作成
+<img width="337" height="95" alt="Screenshot 2025-10-28 at 11 11 24" src="https://github.com/user-attachments/assets/ed597208-ecae-4f75-a102-9f4860d680be" />
+
 .gitignore ファイル: node_modules
 
 git status
@@ -38,6 +40,7 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+
 
 #06. ブランチの作成と切り替え
 git branch
